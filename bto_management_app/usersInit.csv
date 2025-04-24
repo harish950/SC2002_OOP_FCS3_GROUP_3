@@ -1,0 +1,12 @@
+﻿nric,name,age,MaritalStatus,Role
+T2109876H,Oliver,36,Single,hdbofficer
+S6543210I,Owen,28,Single,hdbofficer
+T1234567J,Oscar,29,Married,hdbofficer
+T8765432F,Micheal,36,Single,hdbmanager
+S5678901G,Mason,26,Married,hdbmanager 
+S1234567A,Andrew,35,Single,applicant
+T7654321B,Aaron,40,Married,applicant
+S9876543C,Adam,37,Married,applicant
+T2345678D,Austin,30,Married,applicant
+S3456789E,Amelia,25,Single,applicant
+S0000000S,Admin01,22,Single,admin

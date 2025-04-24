@@ -1,0 +1,39 @@
+src/
+├── controller/
+│   ├── EnquiryController.java ✅
+│   ├── LoginController.java ✅
+│   ├── ProjectController.java ✅
+│   ├── ApplicationController.java ✅
+│   ├── UserController.java ✅
+│   └── ReportController.java ✅
+├── entity/
+│   ├── User.java ✅
+│   ├── Applicant.java ✅
+│   ├── HDBOfficer.java ✅
+│   ├── HDBManager.java ✅
+│   ├── Admin.java ✅
+│   ├── Project.java ✅
+│   ├── Application.java ✅
+│   ├── Enquiry.java ✅
+│   ├── FlatBooking.java ✅
+│   ├── OfficerRegistration.java ✅
+│   └── enums/
+│       ├── ApplicationStatus.java ✅
+│       ├── FlatType.java ✅
+│       ├── MaritalStatus.java ✅
+│       └── UserRole.java ✅
+├── boundary/
+│   ├── MainUI.java ✅
+│   ├── LoginUI.java ✅
+│   ├── ApplicantUI.java ✅
+│   ├── HDBOfficerUI.java ✅
+│   ├── HDBManagerUI.java ✅
+│   ├── AdminUI.java ✅
+│   └── ProjectUI.java ✅
+├── data/
+│   ├── UserDB.java ✅
+│   ├── ProjectDB.java ✅
+│   ├── ApplicationDB.java ✅
+│   ├── EnquiryDB.java ✅
+│   └── DataInitializer.java ✅
+└── Main.java ✅
