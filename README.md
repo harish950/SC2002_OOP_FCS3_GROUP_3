@@ -16,6 +16,19 @@ The **BTO Management System** is designed to manage the entire lifecycle of 🏢
 
 This system was developed as part of the *SC2002 Object-Oriented Design & Programming* course at Nanyang Technological University.
 
+## 📁 Directory
+```
+SC2002_OOP_FCS3_GROUP_3/
+├── 01_bto_management_app/              
+├── 02_report/                             
+├── 03_uml_diagrams/
+│   ├── class_diagrams/
+│   └── sequence_diagrams/
+├── 04_java_doc/
+└── 05_declaration/
+```
+
+
 ## ✨ Key Features
 
 ### 🧍 For Applicants
